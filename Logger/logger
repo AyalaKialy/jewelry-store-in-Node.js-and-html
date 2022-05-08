@@ -1,0 +1,72 @@
+error : Apr-26-2022 03:00:", : checking!!!!!!!!!!!
+error : Apr-26-2022 03:04:", : !!!!!!!!!!!
+error : Apr-26-2022 03:06:", : !!!!!!!!!!!
+error : Apr-26-2022 04:35:", : CastError: Cast to ObjectId failed for value "9663@gmail.com" (type string) at path "_id" for model "user"
+error : Apr-26-2022 05:19:", : MongooseError: Cannot populate path `user` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 05:22:", : TypeError: Cannot read property 'then' of undefined
+error : Apr-26-2022 05:22:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 05:22:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 06:54:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 10:12:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 10:15:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 10:16:", : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-26-2022 11:03 : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-27-2022 04:18 : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-27-2022 06:52 : ReferenceError: error is not defined
+error : Apr-27-2022 07:34 : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : Apr-27-2022 07:38 : MongooseError: Cannot populate path `category` because it is not in your schema. Set the `strictPopulate` option to false to override.
+error : May-01-2022 08:05 : CastError: Cast to ObjectId failed for value "undefined" (type string) at path "_id" for model "product"
+error : May-01-2022 08:56 : CastError: Cast to ObjectId failed for value "category" (type string) at path "_id" for model "product"
+error : May-01-2022 08:57 : CastError: Cast to ObjectId failed for value "category" (type string) at path "_id" for model "product"
+error : May-01-2022 08:58 : CastError: Cast to ObjectId failed for value "category" (type string) at path "_id" for model "product"
+error : May-01-2022 11:06 : ValidationError: products.0: Cast to [ObjectId] failed for value "[ { Quantity: 1 }, { Quantity: 1 } ]" (type string) at path "products.0"
+error : May-01-2022 11:06 : ValidationError: products.0: Cast to [ObjectId] failed for value "[ { Quantity: 1 }, { Quantity: 1 }, { Quantity: 1 }, { Quantity: 1 } ]" (type string) at path "products.0"
+error : May-02-2022 03:32 : ValidationError: adress.street: Path `adress.street` is required., adress.city: Path `adress.city` is required.
+error : May-02-2022 06:34 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:36 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:36 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:40 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:40 : CastError: Cast to ObjectId failed for value "NaN" (type string) at path "_id" for model "user"
+error : May-02-2022 06:43 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:44 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:48 : CastError: Cast to ObjectId failed for value "NaN" (type string) at path "_id" for model "user"
+error : May-02-2022 06:49 : CastError: Cast to ObjectId failed for value ""6245cb48db20233c7cca3e46"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:51 : ValidationError: adress.0.bilding: Cast to Number failed for value "aa" (type string) at path "bilding"
+error : May-02-2022 06:52 : CastError: Cast to ObjectId failed for value ""626ffe12b2fc5986d6b8f2cf"" (type string) at path "_id" for model "user"
+error : May-02-2022 06:53 : CastError: Cast to ObjectId failed for value ""626ffe26b2fc5986d6b8f2d2"" (type string) at path "_id" for model "user"
+error : May-02-2022 07:00 : CastError: Cast to ObjectId failed for value ""626fffde80d50869dc8a60d8"" (type string) at path "_id" for model "user"
+error : May-02-2022 07:00 : CastError: Cast to ObjectId failed for value ""6270001f48a18e8168896ce1"" (type string) at path "_id" for model "user"
+error : May-02-2022 07:02 : CastError: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "user"
+error : May-02-2022 07:03 : CastError: Cast to ObjectId failed for value "2" (type string) at path "_id" for model "user"
+error : May-02-2022 07:08 : ValidationError: adress.0.city: Path `city` is required., adress.0.street: Path `street` is required.
+error : May-02-2022 07:10 : ValidationError: adress.0.bilding: Cast to Number failed for value "ll" (type string) at path "bilding"
+error : May-02-2022 07:39 : ValidationError: email: Invalid Email, adress.0.city: Path `city` is required., adress.0.street: Path `street` is required.
+error : May-02-2022 07:47 : ValidationError: adress.0.bilding: Cast to Number failed for value "kk" (type string) at path "bilding", email: Invalid Email
+error : May-02-2022 07:48 : ValidationError: email: Invalid Email, adress.0.street: Path `street` is required.
+error : May-02-2022 07:49 : ValidationError: adress.0.bilding: Cast to Number failed for value "ryfc" (type string) at path "bilding", email: Invalid Email
+error : May-02-2022 07:50 : ValidationError: adress.0.bilding: Cast to Number failed for value "g" (type string) at path "bilding", email: Invalid Email
+error : May-02-2022 07:52 : ValidationError: adress.0.street: Path `street` is required.
+error : May-02-2022 07:57 : ValidationError: email: alert is not defined
+error : May-02-2022 08:18 : ValidationError: email: Invalid Email
+error : May-02-2022 08:18 : ValidationError: email: Invalid Email
+error : May-02-2022 08:20 : ValidationError: email: Invalid Email
+error : May-02-2022 09:28 : ValidationError: products.0: Cast to [ObjectId] failed for value "[ { Quantity: 1 }, { Quantity: 1 } ]" (type string) at path "products.0"
+error : May-02-2022 09:29 : ValidationError: products.0: Cast to [ObjectId] failed for value "[ { Quantity: 1 }, { Quantity: 1 }, { Quantity: 1 }, { Quantity: 1 } ]" (type string) at path "products.0"
+error : May-02-2022 10:48 : ValidationError: products.0: Cast to [ObjectId] failed for value "[\n' +
+  `  '[{"_id":"626ac12010ee2689c453b1a8","categoryID":{"_id":"626abd4610ee2689c453b198","name":"earrings","__v":0},"name":"עגילי מיקי מאוס","price":120,"description":"עגילים יפיפיות ויחודיות לילדות ונערות","pictureName":"earring (2).jpg","__v":0},{"_id":"626ac0bb10ee2689c453b1a6","categoryID":{"_id":"626abd4610ee2689c453b198","name":"earrings","__v":0},"name":"עגילי לוכד חלומות","price":280,"description":"זוג עגילים שמשדרים יוקרה וייחודיות , מדהימים ביופים ונוצצים כמו שרק אנחנו יודעים לתת","pictureName":"earring.jpg","__v":0}]'\n` +
+  ']" (type string) at path "products.0"
+error : May-02-2022 10:53 : ValidationError: userID: Cast to ObjectId failed for value "22222222222" (type string) at path "userID", products.0: Cast to [ObjectId] failed for value "[\n  { '1': '626ac03d10ee2689c453b1a4', '2': '626abf4610ee2689c453b19c' }\n]" (type string) at path "products.0"
+error : May-02-2022 10:56 : ValidationError: products.0: Cast to [ObjectId] failed for value "[\n' +
+  `  '[{"_id":"626ac12010ee2689c453b1a8","categoryID":{"_id":"626abd4610ee2689c453b198","name":"earrings","__v":0},"name":"עגילי מיקי מאוס","price":120,"description":"עגילים יפיפיות ויחודיות לילדות ונערות","pictureName":"earring (2).jpg","__v":0},{"_id":"626ac0bb10ee2689c453b1a6","categoryID":{"_id":"626abd4610ee2689c453b198","name":"earrings","__v":0},"name":"עגילי לוכד חלומות","price":280,"description":"זוג עגילים שמשדרים יוקרה וייחודיות , מדהימים ביופים ונוצצים כמו שרק אנחנו יודעים לתת","pictureName":"earring.jpg","__v":0}]'\n` +
+  ']" (type string) at path "products.0"
+error : May-03-2022 08:00 : Argument passed in does not match the accepted types
+error : May-04-2022 02:46:55.951 : ReferenceError: amount is not defined
+error : May-04-2022 02:46:55.956 : amount is not defined
+error : May-04-2022 02:51:07.570 : Error: sort() only takes 1 Argument
+error : May-04-2022 02:51:07.580 : sort() only takes 1 Argument
+error : May-04-2022 02:51:53.933 : Error: sort() only takes 1 Argument
+error : May-04-2022 02:51:53.935 : sort() only takes 1 Argument
+error : May-04-2022 03:02:40.422 : Error: sort() only takes 1 Argument
+error : May-04-2022 03:02:40.428 : sort() only takes 1 Argument
+error : May-04-2022 03:03:29.963 : Error: sort() only takes 1 Argument
+error : May-04-2022 03:03:29.966 : sort() only takes 1 Argument

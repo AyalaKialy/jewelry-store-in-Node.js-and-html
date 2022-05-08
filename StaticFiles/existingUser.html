@@ -1,0 +1,34 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+    <script src="login.js"></script>
+    <script src="registation.js"></script>
+</head>
+<body onload="user()">
+
+    <label>שם משתמש</label>
+    <input type="email" id="email3" /><br /><br />
+    <label>סיסמה</label>
+    <input type="password" id="password3" /><br /><br />
+    <label>שם פרטי</label>
+    <input type="text" id="firstName3" /><br /><br />
+    <label>שם משפחה</label>
+    <input type="text" id="lastName3" /><br /><br />
+    <h3>כתובת</h3>
+    <label>עיר</label>
+    <input type="text" id="city2" /><br />
+    <label>רחוב</label>
+    <input type="text" id="street2" /><br />
+    <label>בנין</label>
+    <input type="text" id="bilding2" /><br />
+    <button onclick="updateData()">עדכן נתונים</button>
+    <button onclick="getAllOrder()" >לצפיה בהזמנות קודמות</button>
+    <button onclick="getEpenciveOrder()" >לצפיה בהזמנה היקרה ביותר</button>
+    <div id="myOrders"></div>
+    <div id="ExpenciveOrder"></div>
+    <a href="products.html">להתחלת הקניה</a>
+
+</body>
+</html>
